@@ -1,7 +1,7 @@
 ![Watch Me][def]
 # Website-Html-Css-Spicy1Code
-subscribe me on youtube ![YouTube Video Views](https://img.shields.io/youtube/views/Y?style=social) : https://youtube.com/@ITz-Zekky
+subscribe me on youtube ![YouTube Video Views](https://img.shields.io/youtube/views/xLhwS2rQg14?style=social) 
 
-### Made with ❤️ by [Spicy1Code]
+### Made with ❤️ by [SpicyCode]
 
 [def]: ./img/icons8-chili-pepper-96.png
